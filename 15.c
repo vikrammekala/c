@@ -51,6 +51,7 @@ printf("data=%x\n",&data);
     printf("c=%f\n",data1->c);
     printf("c=%c\n",data1->z);
     printf("y=%d\n",data1->y);
+
     #endif
 
     
@@ -68,4 +69,5 @@ int  main()
     printf("c=%f\n",data1->c);
     printf("c=%c\n",data1->z);
     printf("y=%d\n",data1->y);
+    printf("weo=lcome \n");
 }
